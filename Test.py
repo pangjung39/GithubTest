@@ -1,0 +1,3 @@
+import pythainlp
+
+pythainlp.thai_characters
